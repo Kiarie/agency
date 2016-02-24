@@ -269,6 +269,16 @@ img { border: 0; max-width: 100%; }
 	   background: #296E6F;
         text-decoration:none;
 }
+.scroll{
+	color: #ccc;
+
+}
+.scoll{
+	color: grey;
+	line-height: 1.5;
+	padding: 3px;
+	text-align: left;
+}
 /***************end-servivice************/
 /***************start-portfolio************/
 .portfolio_main{
